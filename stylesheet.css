@@ -1,0 +1,147 @@
+/*========BODY HERE=========*/
+body{
+margin:0px;
+background-color:red;
+}
+/*=================HEADING================*/
+#header{
+border:solid 1px black;
+border-radius:1px;
+background-color:skyblue;
+margin: 1px;
+}
+h1{
+text-align:center;
+font-family:Arial,sarif;
+font-size:40px;
+color:blue;
+}
+h3{
+border-radius:1px;
+margin-top:1px;
+background:#794044;
+border:solid 1px gray;
+font-size:40px;
+margin-bottom:30px;
+}   
+ 
+/*==================NAVIGATION============*/
+#navbar{
+border:solid 1px;
+border-radius:1px;
+background-color:blue;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+margin:1px;
+font-size:25px;
+} 
+ul{
+list-style-type:none;
+}
+ul li{
+display:inline;
+text-align:center;
+margin-right:0px;
+}
+ul li a{
+text-decoration:none;
+background-color:gray;
+color:black;
+border:solid 1px white;
+padding-left:60px;
+padding-right:60px;
+border-radius:1px;
+margin-left:auto;
+margin-right:auto;
+
+}
+ul li a:hover{
+color:black;
+background-color:skyblue;
+}
+/*==============MAIN CONTENT-Home=============*/
+#main{
+border:solid 1px black;
+border-radius:1px;
+height:450px;
+background-color:#ffffff;
+margin:1px;
+font-size:50px;
+font-family:Geneva,Calibre;
+text-align:center
+}
+p{
+font-size: 70%;	
+font-family:sarif
+}
+/*=====MAIN CONTENT-about_me======*/
+.aboutme{
+display:block;
+text-align:left;
+font-size:40px;
+}
+th{
+padding-right:50px;
+padding-bottom:20px;
+}
+#profile{
+float:left;
+height:300px;
+border-radius:1px;
+margin-left:100px;
+margin-right:100px;
+}
+/*==========MAIN CONTENT-Interest========*/
+th{
+padding-right:50px;
+padding-bottom:10px;
+margin-top:30px;
+}
+#profile2{
+float:left;
+height:300px;
+border-radius:1px;
+margin-left:100px;
+margin-right:100px;
+ 
+}
+
+/*==========MAIN CONTENT-Contact_me=======*/
+#photopic{
+float:left;
+margin-right:0px;
+margin-left:130px;
+margin-top:50px;
+border-radius:20px;
+}
+.fbpage{
+margin-top:30px;
+margin-right:350px;
+font-size:20px;
+text-align:center;
+}
+
+/*==========MAIN CONTENT-Gallery==========*/
+#photo{
+height:160px;
+}
+#photo1{
+height:150px;
+margin-top:25px;
+margin-left:20px;
+margin-right:20px;
+}
+/*====================FOOT================*/
+#footer{
+border:solid 1px black;
+border-radius:1px;
+margin:1px;
+background-color:skyblue;
+height:30px;
+float:auto;
+}
+.foot{
+color:blue;
+text-align:center;
+}
